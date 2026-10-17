@@ -1,10 +1,10 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "flxey AFK Bot",
     "password": "",
     "type": "offline"
-  },
+  },a
   "server": {
     "ip": "flxeyorigin7.aternos.me",
     "port": 22617,
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
+        "I'm a real skkiller",
+        "subscribe to SKkiller",
         "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
